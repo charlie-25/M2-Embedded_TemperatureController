@@ -10,4 +10,4 @@
 
 # CODE QUALITY SCORE
 
-[!] [Code quality score](https://app.codiga.io/public/project/30141/M2-Embedded_TemperatureController/dashboard)
+[![Code quality score](https://app.codiga.io/public/project/30141/M2-Embedded_TemperatureController/dashboard)
